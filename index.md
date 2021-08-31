@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Test
 
-<script src="path/to/ruffle/ruffle.js"></script>
+<script src="ruffle/ruffle.js"></script>
 
 ### Markdown
 
