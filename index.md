@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 #### Elevator 1
 
-<embed type="application/x-shockwave-flash" src="elevator1.swf" width="1024" height="800">
+<embed type="application/x-shockwave-flash" src="elevator1.swf" width="1024">
 
 ### Markdown
 
