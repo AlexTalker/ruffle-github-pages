@@ -8,6 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <script src="ruffle/ruffle.js"></script>
 
+#### Elevator 1
+
+<embed type="application/x-shockwave-flash" src="elevator1.swf" width="1024" height="1024">
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
