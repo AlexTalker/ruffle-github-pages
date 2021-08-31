@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/AlexTalker/ruffle-github-p
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Test
+
+<script src="path/to/ruffle/ruffle.js"></script>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
